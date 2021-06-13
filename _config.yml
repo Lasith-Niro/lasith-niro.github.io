@@ -1,0 +1,69 @@
+### your site title here
+title: LasithNiroshan.me
+description: "Lasith's personal web-site"
+# description: subtitle | affiliations | motto
+
+baseurl: /home #lasith-niro.github.io #name of GitHub repository
+url: "https://lasithniroshan.me" #custom url to be used instead of GitHub repository
+email: "lasith[dot]lan[at]gmail[dot]com"
+
+
+highlighter: rouge
+markdown: kramdown
+
+# Pagination
+paginate: 4
+permalink: /publications/:year/:title/
+paginate_path: /publications/page:num/
+
+# Social media links in footer
+facebook: "#"
+twitter: "#"
+linkedin: "lasithniro/"
+github: "Lasith-Niro"
+researchgate: "Lasith-Niroshan"
+orcid: "0000-0002-9868-8338"
+
+highlighter: rouge
+markdown: kramdown
+
+# Tracker
+analytics:
+
+#optimization -> compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+#collection
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - README.md
+  - LICENSE.md
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-email-protect
+  - jekyll-target-blank
+
+# Custom variables
+owner : "Lasith-Niro"
+year : "2021"
