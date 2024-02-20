@@ -3,8 +3,8 @@ title: LasithNiroshan.me
 description: "Lasith's personal web-site"
 # description: subtitle | affiliations | motto
 
-baseurl: / #lasith-niro.github.io #name of GitHub repository
-url: "https://lasithniroshan.me" #custom url to be used instead of GitHub repository
+baseurl: lasith-niro.github.io #name of GitHub repository
+# url: "https://lasithniroshan.me" #custom url to be used instead of GitHub repository
 email: "lasith[dot]lan[at]gmail[dot]com"
 
 
