@@ -12,7 +12,3 @@ citation: "<b>Niroshan, L.</b>, Carswell, J., 2025. <i>DeepMapper:</i> A GeoAI A
 <i>DeepMapper:</i> A GeoAI Approach to Automate the VGI Mapping Workflow
 
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/11045930)
-
-Recommended citation:
-
-<b>Niroshan, L.</b>, Carswell, J., 2025. <i>DeepMapper:</i> A GeoAI Approach to Automate the VGI Mapping Workflow. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. https://doi.org/10.1109/jstars.2025.3581499

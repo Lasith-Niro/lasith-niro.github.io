@@ -1,7 +1,23 @@
 ---
-title: "DeepMapper"
-excerpt: "To get accurate information returned from location-based services (e.g., LBS info on nearby restaurants, retail outlets, points-of-interest, etc.), the underlying map (spatial data) must be up-to-date. However, the built environment (e.g., roads, buildings, bike paths, etc.) can change quickly over time, either through planned developments or as the result of natural/manmade disasters. The problem is that keeping online crowdsourced maps like Open Street Map (OSM) updated is still very much a manual process. As such, it can take considerable time to sync the online maps used by LBS with up-to-date spatial data in 'real-time'.
+title: "Special Issue: Testing the Quality of GeoAI-Generated Data for VGI Mapping"
+Role: Co-Editor
+Journal: ISPRS International Journal of Geo-Information (IJGI)
+Status: Open for Submissions
+excerpt: "🔗 [View Special Issue](https://www.mdpi.com/journal/ijgi/special_issues/82IZEW4CTW)
+
 <br>
-Our case study considers the Grangegorman area in Dublin city. It is a green/brownfield site that has seen much infrastructure change in the past decade due to its renewal as the new home for Technological University Dublin (TU Dublin). New buildings have been built, car parks have changed size/location, and new roads have been constructed due to the recent expansion. Figure 2 and Figure 3 illustrate the difference/mismatch between the current OSM crowdsourced (vector) map and Google's satellite (raster) view of the Grangegorman area.<br/><br/><img style='width:800px' src='/images/DeepMapper-architecture-diagram-v3.png'>"
+I am collaborating with Dr. James D. Carswell as a co-editor of this special issue, . Together, we are leading a timely and critical exploration into the reliability and accuracy of GeoAI-generated geospatial data, particularly within the context of Volunteered Geographic Information (VGI) platforms such as OpenStreetMap.
+<br><br>
+While GeoAI offers immense potential to automate and accelerate map production, the growing concern around data quality — often referred to as 'AI slop' (a term describing low-quality or error-prone outputs from artificial intelligence systems) — has raised important questions about the trustworthiness of AI-generated content. This special issue invites empirical research, case studies, and benchmark studies that evaluate how well current GeoAI models perform in real-world conditions, especially when compared to authoritative data sources and community-generated maps.
+<br><br>
+The issue focuses on:
+<br>
+    🔎 Assessing accuracy and reliability of AI-predicted map features<br>
+    🔎 Evaluating integration of GeoAI outputs into VGI platforms<br>
+    🔎 Developing QA and benchmarking frameworks for AI-generated spatial data<br>
+    🔎 Addressing challenges and future directions for AI-assisted mapping<br>
+<br>
+Through this special issue, our goal is to inform both academic and practitioner communities about the current capabilities and limitations of GeoAI in collaborative mapping, and to foster a dialogue between automated approaches and human-led mapping practices."
+
 collection: portfolio
 ---
